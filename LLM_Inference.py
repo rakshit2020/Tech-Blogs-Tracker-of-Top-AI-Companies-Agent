@@ -10,7 +10,7 @@ load_dotenv()
 api_key = os.getenv("api_key")
 
 client = OpenAI(
-base_url="https://chat.int.bayer.com/api/v2",
+base_url=" ADD YOUR PREFERED BASE URL (EVEN LOCAL MODEL USING OLLAMA)",
 api_key=api_key,
 )
 
