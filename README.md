@@ -6,6 +6,11 @@ A Streamlit app that fetches and displays the latest technical blog posts from t
 
 Keeping up with AI moves fast. OpenAI, Anthropic, Google DeepMind, Meta, NVIDIA, Hugging Face, and 15+ others publish important research, engineering, and product blogs constantly. Instead of checking 20 sites manually, this app pulls the latest posts from all of them into a single feed with titles, dates, sources, and direct links.
 
+## Screenshot
+
+![AI Blogs Tracker](AI_BLOG_TRACKER.png)
+
+
 ## How it works
 
 1. **Tavily Extract** scrapes the blog listing pages of each company directly (not search — actual pages like `anthropic.com/engineering`, `openai.com/blog`, etc.)
