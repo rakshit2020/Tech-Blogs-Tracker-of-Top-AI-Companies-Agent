@@ -1,5 +1,4 @@
-import truststore
-truststore.inject_into_ssl()
+
 
 from openai import OpenAI
 
