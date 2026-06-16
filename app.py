@@ -1,5 +1,4 @@
-import truststore
-truststore.inject_into_ssl()
+
 
 import streamlit as st
 from datetime import datetime
